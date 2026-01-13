@@ -1,3 +1,3 @@
 
 print('hei')
-print('denne funker ikke')
+print('funk')
